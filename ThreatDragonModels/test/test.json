@@ -112,6 +112,44 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 68,
+                "y": 328
+              },
+              "angle": 0,
+              "id": "294d6f06-c390-4fc1-a8c0-74f47ad5996f",
+              "z": 4,
+              "attrs": {
+                "text": {
+                  "text": "actor 3"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 437,
+                "y": 334
+              },
+              "angle": 0,
+              "id": "5334c560-feee-4af4-bd0c-b305d6d2cfad",
+              "z": 5,
+              "attrs": {
+                "text": {
+                  "text": "actor 4"
+                }
+              }
             }
           ]
         },
