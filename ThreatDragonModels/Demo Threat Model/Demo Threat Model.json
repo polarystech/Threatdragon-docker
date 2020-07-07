@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Demo Threat Model",
+    "owner": "Vijay",
+    "description": "Threatdragon-docker demo"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "vijay"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Threatdragon-docker",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Kris"
+  }
+}
