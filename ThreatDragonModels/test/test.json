@@ -2,7 +2,7 @@
   "summary": {
     "title": "test",
     "owner": "Vijay",
-    "description": "abcd"
+    "description": "abcd xyz"
   },
   "detail": {
     "contributors": [
@@ -126,9 +126,16 @@
               "angle": 0,
               "id": "294d6f06-c390-4fc1-a8c0-74f47ad5996f",
               "z": 4,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
                   "text": "actor 3"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             },
@@ -145,9 +152,16 @@
               "angle": 0,
               "id": "5334c560-feee-4af4-bd0c-b305d6d2cfad",
               "z": 5,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
                   "text": "actor 4"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
